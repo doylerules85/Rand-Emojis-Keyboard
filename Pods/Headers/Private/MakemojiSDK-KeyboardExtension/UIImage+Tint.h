@@ -1,0 +1,1 @@
+../../../MakemojiSDK-KeyboardExtension/Pod/Classes/UIImage+Tint.h
